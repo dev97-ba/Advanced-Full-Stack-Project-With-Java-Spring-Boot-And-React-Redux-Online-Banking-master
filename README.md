@@ -91,8 +91,6 @@ Android Online Banking App: [Android Java Online Banking App]( https://github.co
 
 React, Redux, Thunk usage. JavaScript experiences. Communication with backend. CORS Policy Setting. MUI usage. Frontend web development. JWT and cookies.
   
-## Programmers
 
-- [@Berko01](https://github.com/Berko01) design and development.
 
   
